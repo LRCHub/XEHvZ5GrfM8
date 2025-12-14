@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "アイネクライネ",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2025-12-14T04:27:15.387381Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイネクライネ",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_アイネクライネ_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アイネクライネ",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/02_アイネクライネ_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アイネクライネ",
+      "artist": "吉岡 聖恵",
+      "has_synced": true,
+      "path": "select/03_アイネクライネ_吉岡_聖恵.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アイネクライネ",
+      "artist": "吉岡聖恵",
+      "has_synced": true,
+      "path": "select/04_アイネクライネ_吉岡聖恵.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アイネクライネ",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/05_アイネクライネ_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アイネクライネ - Eine Kleine",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/06_アイネクライネ_-_Eine_Kleine_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アイネクライネ (小小的我)",
+      "artist": "米津玄師 (よねづ けんし)",
+      "has_synced": true,
+      "path": "select/07_アイネクライネ_(小小的我)_米津玄師_(よねづ_けんし).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アイネクライネ",
+      "artist": "Yonezu Kenshi",
+      "has_synced": true,
+      "path": "select/08_アイネクライネ_Yonezu_Kenshi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アイネクライネ",
+      "artist": "Kou Shibasaki",
+      "has_synced": false,
+      "path": "select/09_アイネクライネ_Kou_Shibasaki.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アイネクライネ / Eine Kleine",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/10_アイネクライネ___Eine_Kleine_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイネクライネ",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_アイネクライネ_米津玄師.txt"
+    }
+  ]
+}
